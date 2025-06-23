@@ -29,13 +29,7 @@ Je suis développeur web passionné, en reconversion après un parcours riche da
 
 ## 📂 Projets réalisés
 
-Voici quelques-uns de mes projets que tu peux explorer ici sur GitHub :
 
-- 🔗 [Projet Symfony de gestion de tâches](#)
-- 🔗 [Mini blog en JavaScript Vanilla](#)
-- 🔗 [Landing page responsive](#)
-
-*(Plus de détails dans les repositories ci-dessous)*
 
 ---
 
@@ -49,10 +43,10 @@ C’est **un cadre pour apprendre, pratiquer, me dépasser**.
 
 ## 📬 Contact
 
-- 📧 Mail : julien.rage@email.com *(à adapter)*
-- 📱 Téléphone : 06 XX XX XX XX
-- 💼 LinkedIn : [linkedin.com/in/julien-rage](#)
-- 💻 Site (en construction) : [www.julienrage.dev](#)
+- 📧 Mail : julien.rage@hotmail.fr
+- 📱 Téléphone : 06 33 20 50 16
+- 💼 LinkedIn : www.linkedin.com/in/julien-rage-66a788158 (#)
+- 💻 Site (en construction) 
 
 ---
 
